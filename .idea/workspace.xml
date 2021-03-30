@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a450dc11-aa65-426e-b8b5-7070a30a98f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2. Requires_for_Standard_Graduation_Thesis_of_NJU.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Formats_of_SAM&amp;VCF.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Choose a reference genome.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. Choose_a_Reference_Genome.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
@@ -57,7 +57,11 @@
       <updated>1609148279057</updated>
       <workItem from="1609148283094" duration="79000" />
       <workItem from="1615814560091" duration="219000" />
-      <workItem from="1615816540698" duration="657000" />
+      <workItem from="1615816540698" duration="2179000" />
+      <workItem from="1616054816351" duration="384000" />
+      <workItem from="1616055279923" duration="647000" />
+      <workItem from="1616743409600" duration="10000" />
+      <workItem from="1617084648645" duration="3197000" />
     </task>
     <task id="LOCAL-00001" summary="20122817">
       <created>1609148309936</created>
@@ -66,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609148309936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20210315">
+      <created>1615817393765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615817393765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20122817" />
-    <option name="LAST_COMMIT_MESSAGE" value="20122817" />
+    <MESSAGE value="20210315" />
+    <option name="LAST_COMMIT_MESSAGE" value="20210315" />
   </component>
 </project>
