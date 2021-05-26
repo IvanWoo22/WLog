@@ -6,10 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a450dc11-aa65-426e-b8b5-7070a30a98f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3. Formats_of_SAM&amp;VCF.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f0f794ae-8132-4591-9717-7d6550587043" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +15,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1mHQwj2ZzvNhnuCNQlkuySAOOav" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1t4saIvYYrrD328MXtudiyxvECl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,18 +23,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="cidr.known.project.marker" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -50,54 +38,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a450dc11-aa65-426e-b8b5-7070a30a98f5" name="Default Changelist" comment="" />
-      <created>1609148279057</created>
+      <changelist id="f0f794ae-8132-4591-9717-7d6550587043" name="Default Changelist" comment="" />
+      <created>1622039758636</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609148279057</updated>
-      <workItem from="1609148283094" duration="79000" />
-      <workItem from="1615814560091" duration="219000" />
-      <workItem from="1615816540698" duration="2179000" />
-      <workItem from="1616054816351" duration="384000" />
-      <workItem from="1616055279923" duration="647000" />
-      <workItem from="1616743409600" duration="10000" />
-      <workItem from="1617084648645" duration="3197000" />
+      <updated>1622039758636</updated>
+      <workItem from="1622039761642" duration="27000" />
+      <workItem from="1622039804627" duration="12000" />
     </task>
-    <task id="LOCAL-00001" summary="20122817">
-      <created>1609148309936</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1609148309936</updated>
-    </task>
-    <task id="LOCAL-00002" summary="20210315">
-      <created>1615817393765</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1615817393765</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="20122817" />
-    <MESSAGE value="20210315" />
-    <option name="LAST_COMMIT_MESSAGE" value="20210315" />
   </component>
 </project>
