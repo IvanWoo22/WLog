@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f794ae-8132-4591-9717-7d6550587043" name="Default Changelist" comment="" />
+    <list default="true" id="f0f794ae-8132-4591-9717-7d6550587043" name="Default Changelist" comment="20210928">
+      <change afterPath="$PROJECT_DIR$/6_Shell_tricks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Choose_a_Reference_Genome.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Choose_a_Reference_Genome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Requires_for_Standard_Graduation_Thesis_of_NJU.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_Requires_for_Standard_Graduation_Thesis_of_NJU.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Formats_of_SAM&amp;VCF.md" beforeDir="false" afterPath="$PROJECT_DIR$/3_Formats_of_SAM&amp;VCF.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. Some tricks in Perl.md" beforeDir="false" afterPath="$PROJECT_DIR$/4_Perl_tricks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. YuLab的生存秘笈.md" beforeDir="false" afterPath="$PROJECT_DIR$/5_YuLab的生存秘笈.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,23 +26,37 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1t4saIvYYrrD328MXtudiyxvECl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="cf.first.check.clang-format" value="false" />
-    <property name="cidr.known.project.marker" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ivanwoo/Documents/GitHub/WLog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -45,10 +70,44 @@
       <updated>1622039758636</updated>
       <workItem from="1622039761642" duration="27000" />
       <workItem from="1622039804627" duration="12000" />
+      <workItem from="1622039840318" duration="411000" />
+      <workItem from="1632818197590" duration="619000" />
+      <workItem from="1652679087141" duration="659000" />
     </task>
+    <task id="LOCAL-00001" summary="20210526">
+      <created>1622040219911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622040219911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20210928">
+      <created>1632818633493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632818633493</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20210526" />
+    <MESSAGE value="20210928" />
+    <option name="LAST_COMMIT_MESSAGE" value="20210928" />
   </component>
 </project>
