@@ -9,14 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f794ae-8132-4591-9717-7d6550587043" name="Default Changelist" comment="20210928">
-      <change afterPath="$PROJECT_DIR$/6_Shell_tricks.md" afterDir="false" />
+    <list default="true" id="f0f794ae-8132-4591-9717-7d6550587043" name="Default Changelist" comment="New document for shell learning.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Choose_a_Reference_Genome.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Choose_a_Reference_Genome.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Requires_for_Standard_Graduation_Thesis_of_NJU.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_Requires_for_Standard_Graduation_Thesis_of_NJU.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Formats_of_SAM&amp;VCF.md" beforeDir="false" afterPath="$PROJECT_DIR$/3_Formats_of_SAM&amp;VCF.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4. Some tricks in Perl.md" beforeDir="false" afterPath="$PROJECT_DIR$/4_Perl_tricks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5. YuLab的生存秘笈.md" beforeDir="false" afterPath="$PROJECT_DIR$/5_YuLab的生存秘笈.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +44,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,7 +67,7 @@
       <workItem from="1622039804627" duration="12000" />
       <workItem from="1622039840318" duration="411000" />
       <workItem from="1632818197590" duration="619000" />
-      <workItem from="1652679087141" duration="659000" />
+      <workItem from="1652679087141" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="20210526">
       <created>1622040219911</created>
@@ -88,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632818633493</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New document for shell learning.">
+      <created>1652680824345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652680824345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20210526" />
     <MESSAGE value="20210928" />
-    <option name="LAST_COMMIT_MESSAGE" value="20210928" />
+    <MESSAGE value="New document for shell learning." />
+    <option name="LAST_COMMIT_MESSAGE" value="New document for shell learning." />
   </component>
 </project>
