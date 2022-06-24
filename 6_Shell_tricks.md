@@ -11,6 +11,7 @@ The procedure to find largest files including directories in Linux is as follows
 - Also check the ncdu command to get largest files in directory
 
 Run the command:
+
 ```shell
 sudo du -a * | sort -rn | head -n 20
 ```
