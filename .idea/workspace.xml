@@ -9,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f794ae-8132-4591-9717-7d6550587043" name="Default Changelist" comment="Rstudio read in." />
+    <list default="true" id="f0f794ae-8132-4591-9717-7d6550587043" name="Default Changelist" comment="Rstudio read in.">
+      <change afterPath="$PROJECT_DIR$/9_AWK_tricks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +75,8 @@
       <workItem from="1656062117710" duration="1212000" />
       <workItem from="1656063432793" duration="837000" />
       <workItem from="1658370239938" duration="595000" />
+      <workItem from="1658562951234" duration="544000" />
+      <workItem from="1676253670082" duration="427000" />
     </task>
     <task id="LOCAL-00001" summary="20210526">
       <created>1622040219911</created>
@@ -143,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658370830943</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Rstudio read in.">
+      <created>1658562956455</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658562956455</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
