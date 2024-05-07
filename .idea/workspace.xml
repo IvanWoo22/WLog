@@ -29,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="1t4saIvYYrrD328MXtudiyxvECl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,6 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/ivanwoo/Documents/GitHub/WLog&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -80,6 +84,9 @@
       <workItem from="1676253670082" duration="734000" />
       <workItem from="1676459857679" duration="307000" />
       <workItem from="1676904357292" duration="160000" />
+      <workItem from="1682066025615" duration="1134000" />
+      <workItem from="1689350312627" duration="179000" />
+      <workItem from="1690509036495" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="20210526">
       <created>1622040219911</created>
@@ -172,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676460157892</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="AWK files">
+      <created>1682076604564</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682076604564</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
