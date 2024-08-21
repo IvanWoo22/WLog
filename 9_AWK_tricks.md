@@ -25,3 +25,11 @@ pigz -dc gencode.v40.annotation.gff3.gz |
   sed 's/gene_name=//' \
     >gencode.v40_gene_annotation_table.txt
 ```
+
+to substitute a file by a dictionary
+
+```shell
+awk 'NR==FNR{a[$1]=$2;next} {for(i in a) gsub(i, a[i])}1' \
+	dictionary.tsv target.tsv \
+	>substituted.tsv
+```
